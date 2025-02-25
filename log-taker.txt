@@ -709,3 +709,12 @@
 2/25/2025 | 4:15:52 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 2/25/2025 | 4:15:52 AM | INFO | Trying to activate mining on-chain for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
 2/25/2025 | 4:15:58 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x5252e408b722476ed971a1772e78df5cae1b4754303a63cd1b1fe2fd65c34098 
+2/25/2025 | 8:16:59 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/25/2025 | 8:17:00 AM | INFO | Start process for wallet 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+2/25/2025 | 8:17:01 AM | INFO | Trying To Login for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+2/25/2025 | 8:17:01 AM | INFO | Login successful... 
+2/25/2025 | 8:17:01 AM | INFO | Trying to check user info... 
+2/25/2025 | 8:17:02 AM | INFO | User ID: 28194469 | Twitter: @maudyfarasya | Total Points: 312000 
+2/25/2025 | 8:17:02 AM | INFO | Trying to check user miner status... 
+2/25/2025 | 8:17:03 AM | INFO | Last mining time: 2/25/2025, 4:15:57 AM
+2/25/2025 | 8:17:03 AM | WARN | Mining already started, next mining time is: 2/26/2025, 4:15:57 AM
