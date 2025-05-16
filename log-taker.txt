@@ -5164,3 +5164,12 @@
 5/15/2025 | 8:15:31 PM | INFO | Trying to activate mining on-chain for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
 5/15/2025 | 8:15:32 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/15/2025 | 8:15:32 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/16/2025 | 1:07:43 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/16/2025 | 1:07:43 AM | INFO | Start process for wallet 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+5/16/2025 | 1:07:44 AM | INFO | Trying To Login for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+5/16/2025 | 1:07:45 AM | INFO | Login successful... 
+5/16/2025 | 1:07:45 AM | INFO | Trying to check user info... 
+5/16/2025 | 1:07:45 AM | INFO | User ID: 28194469 | Twitter: @maudyfarasya | Total Points: 1992000 
+5/16/2025 | 1:07:45 AM | INFO | Trying to check user miner status... 
+5/16/2025 | 1:07:46 AM | INFO | Last mining time: 5/15/2025, 8:19:12 AM
+5/16/2025 | 1:07:46 AM | WARN | Mining already started, next mining time is: 5/16/2025, 8:19:12 AM
