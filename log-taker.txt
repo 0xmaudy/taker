@@ -5335,3 +5335,16 @@
 5/18/2025 | 8:14:21 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/18/2025 | 8:14:21 PM | INFO | Trying to activate mining on-chain for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
 5/18/2025 | 8:14:29 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xddebf103d39445048fecd1c15c9b9fb09c6c7f5bd6f972cf1e792ad581ef95ff 
+5/19/2025 | 1:10:36 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 1:10:36 AM | INFO | Start process for wallet 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+5/19/2025 | 1:10:37 AM | INFO | Trying To Login for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+5/19/2025 | 1:10:37 AM | INFO | Login successful... 
+5/19/2025 | 1:10:37 AM | INFO | Trying to check user info... 
+5/19/2025 | 1:10:38 AM | INFO | User ID: 28194469 | Twitter: @maudyfarasya | Total Points: 2064000 
+5/19/2025 | 1:10:38 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 1:11:07 AM | INFO | Last mining time: 5/17/2025, 4:15:06 PM
+5/19/2025 | 1:11:07 AM | INFO | Trying to start Mining for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+5/19/2025 | 1:11:40 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+5/19/2025 | 1:11:40 AM | INFO | Trying to activate mining on-chain for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+5/19/2025 | 1:13:54 AM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
+5/19/2025 | 1:13:54 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
