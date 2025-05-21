@@ -5476,3 +5476,12 @@
 5/21/2025 | 8:18:41 AM | INFO | Trying to activate mining on-chain for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
 5/21/2025 | 8:18:42 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5e","from":"0xd9aebe6c7d0bb36435118294be102f25aa3784ef","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/21/2025 | 8:18:42 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/21/2025 | 12:27:48 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 12:27:49 PM | INFO | Start process for wallet 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+5/21/2025 | 12:27:50 PM | INFO | Trying To Login for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+5/21/2025 | 12:27:50 PM | INFO | Login successful... 
+5/21/2025 | 12:27:50 PM | INFO | Trying to check user info... 
+5/21/2025 | 12:27:51 PM | INFO | User ID: 28194469 | Twitter: @maudyfarasya | Total Points: 2136000 
+5/21/2025 | 12:27:51 PM | INFO | Trying to check user miner status... 
+5/21/2025 | 12:27:52 PM | INFO | Last mining time: 5/20/2025, 8:15:36 PM
+5/21/2025 | 12:27:52 PM | WARN | Mining already started, next mining time is: 5/21/2025, 8:15:36 PM
