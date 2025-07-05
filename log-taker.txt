@@ -8047,3 +8047,15 @@
 7/5/2025 | 12:25:33 PM | INFO | Trying to activate mining on-chain for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
 7/5/2025 | 12:25:36 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86c820465818680831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a021db85da5e96d31de32dd33138c34bea3687539f5e6d4f7bf5a09ebf1390a5cba072f1e0fbd2aeb14608ee6e3aa3e573bf7a492cbdad693ee34991887fcc55d136"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 7/5/2025 | 12:25:36 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+7/5/2025 | 4:15:45 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/5/2025 | 4:15:45 PM | INFO | Start process for wallet 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+7/5/2025 | 4:15:45 PM | INFO | Trying To Login for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+7/5/2025 | 4:15:46 PM | INFO | Login successful... 
+7/5/2025 | 4:15:46 PM | INFO | Trying to check user info... 
+7/5/2025 | 4:15:47 PM | INFO | User ID: 28194469 | Twitter: @maudyfarasya | Total Points: 3096000 
+7/5/2025 | 4:15:47 PM | INFO | Trying to check user miner status... 
+7/5/2025 | 4:15:48 PM | INFO | Last mining time: 7/4/2025, 8:19:33 AM
+7/5/2025 | 4:15:48 PM | INFO | Trying to start Mining for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+7/5/2025 | 4:15:48 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+7/5/2025 | 4:15:48 PM | INFO | Trying to activate mining on-chain for wallet: 0xd9aeBE6C7d0Bb36435118294bE102f25Aa3784eF 
+7/5/2025 | 4:15:56 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf51ea2a0cda87ce62b8f0deff2ba6301e517fcae4f06c5b54499e05acff8acba 
